@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BipartiteGraph/BipartiteGraph.iml" filepath="$PROJECT_DIR$/BipartiteGraph/BipartiteGraph.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CycleDetection/CycleDetection.iml" filepath="$PROJECT_DIR$/CycleDetection/CycleDetection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DisjointSet/DisjointSet.iml" filepath="$PROJECT_DIR$/DisjointSet/DisjointSet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MinimumSpanningTree/PrimsAlgorithm.iml" filepath="$PROJECT_DIR$/MinimumSpanningTree/PrimsAlgorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Representation/Representation.iml" filepath="$PROJECT_DIR$/Representation/Representation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Rivision.iml" filepath="$PROJECT_DIR$/Rivision.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ShortestPath/ShortestPath.iml" filepath="$PROJECT_DIR$/ShortestPath/ShortestPath.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TopologicalSort/TopologicalSort.iml" filepath="$PROJECT_DIR$/TopologicalSort/TopologicalSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Traversal/Traversal.iml" filepath="$PROJECT_DIR$/Traversal/Traversal.iml" />
+    </modules>
+  </component>
+</project>

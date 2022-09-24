@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DP-on-Trees/DP-on-Trees.iml" filepath="$PROJECT_DIR$/DP-on-Trees/DP-on-Trees.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dynamic-Programming.iml" filepath="$PROJECT_DIR$/Dynamic-Programming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Knapsack01/Knapsack01.iml" filepath="$PROJECT_DIR$/Knapsack01/Knapsack01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Longest-Common-Subsequence/Longest-Common-Subsequence.iml" filepath="$PROJECT_DIR$/Longest-Common-Subsequence/Longest-Common-Subsequence.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Longest-Palindromic-Subsequence/Longest-Palindromic-Subsequence.iml" filepath="$PROJECT_DIR$/Longest-Palindromic-Subsequence/Longest-Palindromic-Subsequence.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MatrixChainMultiplication/MatrixChainMultiplication.iml" filepath="$PROJECT_DIR$/MatrixChainMultiplication/MatrixChainMultiplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Unbound-Knapsack/Unbound-Knapsack.iml" filepath="$PROJECT_DIR$/Unbound-Knapsack/Unbound-Knapsack.iml" />
+    </modules>
+  </component>
+</project>

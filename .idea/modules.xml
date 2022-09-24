@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Character-Arrays/Character-Arrays.iml" filepath="$PROJECT_DIR$/Character-Arrays/Character-Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Trie/Trie.iml" filepath="$PROJECT_DIR$/Trie/Trie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tries/Tries.iml" filepath="$PROJECT_DIR$/Tries/Tries.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tries/out/out.iml" filepath="$PROJECT_DIR$/Tries/out/out.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/with java.iml" filepath="$PROJECT_DIR$/.idea/with java.iml" />
+    </modules>
+  </component>
+</project>
